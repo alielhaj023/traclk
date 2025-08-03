@@ -1,0 +1,35 @@
+{
+  "citizenshipApplication": {
+    "status": "In progress",
+    "details": {
+      "languageSkills": "Completed",
+      "physicalPresence": "Completed",
+      "citizenshipTest": "Completed",
+      "backgroundVerification": "In progress",
+      "prohibitions": "In progress",
+      "citizenshipCeremony": "Not started"
+    },
+    "history": [
+      {
+        "date": "Feb 3, 2025",
+        "event": "Physical presence status updated to Completed"
+      },
+      {
+        "date": "Jan 30, 2025",
+        "event": "Language skills status updated to Completed"
+      },
+      {
+        "date": "Jan 8, 2025",
+        "event": "Fingerprints requested for background verification"
+      },
+      {
+        "date": "Dec 30, 2024",
+        "event": "Citizenship test status updated to Completed"
+      },
+      {
+        "date": "Dec 8, 2024",
+        "event": "Scheduled for online citizenship test (Dec 9, 2024 – Jan 8, 2025)"
+      }
+    ]
+  }
+}
